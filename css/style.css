@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-style{
+    background:linear-gradient(45deg,#a0e9e9 0%,  #dc00d3 100%,#100425 0%);
+    border: none;
+    font-size: large;
+}
+
+.glass{
+    background: rgba(242, 242, 245, 0.837);
+    border-radius: 15px;
+    padding: 40px;
+    border: 1px solid rgba(235, 220, 220, 0.3);
+    box-shadow: 0 4px 30px rgba(235, 199, 222, 0.1);
+}
